@@ -17,5 +17,5 @@
 
 ![Amazon dashboard](assets/amazon-prime-video-dashboard.png)
 
-## Fuentes de datos:
+## Data Sources:
 https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
